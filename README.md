@@ -1,3 +1,4 @@
+![logo](https://github.com/bdahsan1999wd/bdahsan1999wd/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Md. Ahsan Habib (Ashik)</h1>
 <h3 align="center">**✨ A Passionate Full Stack Developer from BD ✨** Expert in the **MERN stack** (MongoDB, Express.js, React, Node.js) to build dynamic, scalable, and modern web applications.</h3>
 
