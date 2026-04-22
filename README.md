@@ -22,8 +22,11 @@
       <p>I am a dedicated <b>Full Stack Developer</b> specializing in the <b>MERN stack</b>. I am passionate about building dynamic, scalable, and AI-integrated web applications with premium user experiences.</p>
       <ul>
         <li>🌱 Currently deep-diving into <b>Advanced Backend Architecture and Next.js 15/16</b>.</li>
+        <li>👨‍💻 Transitioning towards <b>PERN Stack</b> to master relational databases.</li>
+        <li>🤝 I'm open to <b>Full Stack Development</b> roles and remote collaborations.</li>
         <li>👨‍💻 Check out my projects here: <a href="https://linktr.ee/bdahsan1999wd">linktr.ee/bdahsan1999wd</a></li>
         <li>📝 I write technical blogs on <b>Full Stack Development and Modern Web Tech</b>.</li>
+        <li>⚡ <b>Fun Fact:</b> I think I'm quite self-willed and persistent when it comes to my ongoing projects.</li>
         <li>📫 Reach me at: <b>bdahsan1999wd@gmail.com</b></li>
       </ul>
     </td>
@@ -42,9 +45,14 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap" alt="frontend" />
 </p>
 
-**Advance MERN Stack & Frameworks:**
+**Advanced MERN Stack & Frameworks:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb" alt="mern" />
+</p>
+
+**Future-Ready Goals (SQL & Advanced Backend):**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker" alt="future-stack" />
 </p>
 
 **Animation & Creative UI:**
@@ -66,7 +74,7 @@
 
 **Currently Exploring / Future Interests:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,redis" alt="future" />
+  <img src="https://skillicons.dev/icons?i=python" alt="future" />
 </p>
 
 ---
