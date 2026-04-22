@@ -42,7 +42,7 @@
 
 **Languages & Core Frontend:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,daisyui" alt="frontend" />
 </p>
 
 **Advanced MERN Stack & Frameworks:**
@@ -67,14 +67,26 @@
   <img src="https://img.icons8.com/color/48/google-logo.png" alt="gemini" width="40" height="40"/>
 </p>
 
-**Design & DevOps:**
+### ⚙️ Operations & Tooling (Deployment & Workflow)
+
+**🚀 Deployment Skills:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,git,figma,ps,pixso" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="deployment" />
+</p>
+
+**🔄 Workflow Awareness:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" alt="workflow" />
+</p>
+
+**🎨 Creative Design & Prototyping:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,pixso" alt="design" />
 </p>
 
 **Currently Exploring / Future Interests:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="future" />
+  <img src="https://skillicons.dev/icons?i=python,astro" alt="future" />
 </p>
 
 ---
