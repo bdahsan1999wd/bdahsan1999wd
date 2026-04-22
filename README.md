@@ -15,16 +15,23 @@
 ---
 
 ### 🧐 About Me
-I am a dedicated **Full Stack Developer** specializing in the **MERN stack**. I am passionate about building dynamic, scalable, and AI-integrated web applications with premium user experiences.
 
-- 🌱 Currently deep-diving into **Advanced Backend Architecture and Next.js 15/16**.
-- 👨‍💻 Check out my projects here: [linktr.ee/bdahsan1999wd](https://linktr.ee/bdahsan1999wd)
-- 📝 I write technical blogs on **Full Stack Development and Modern Web Tech**.
-- 📫 Reach me at: **bdahsan1999wd@gmail.com**
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="width: 100%; height: 75vh; object-fit: cover;" alt="coding animation" />
-</div>
+<table border="0">
+  <tr>
+    <td width="58%" valign="top">
+      <p>I am a dedicated <b>Full Stack Developer</b> specializing in the <b>MERN stack</b>. I am passionate about building dynamic, scalable, and AI-integrated web applications with premium user experiences.</p>
+      <ul>
+        <li>🌱 Currently deep-diving into <b>Advanced Backend Architecture and Next.js 15/16</b>.</li>
+        <li>👨‍💻 Check out my projects here: <a href="https://linktr.ee/bdahsan1999wd">linktr.ee/bdahsan1999wd</a></li>
+        <li>📝 I write technical blogs on <b>Full Stack Development and Modern Web Tech</b>.</li>
+        <li>📫 Reach me at: <b>bdahsan1999wd@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="42%" valign="top">
+      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="width: 100%; border-radius: 10px;" alt="coding animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,9 +115,10 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN stack**. I 
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/bdahsan1999wd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100088826083224" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://twitter.com/bdahsan1999wd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://hashnode.com/@bdahsan1999wd" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://www.instagram.com/bdahsan1999wd/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  
+  <a href="https://linkedin.com/in/bdahsan1999wd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100088826083224" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/bdahsan1999wd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://hashnode.com/@bdahsan1999wd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.instagram.com/bdahsan1999wd/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
