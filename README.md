@@ -26,12 +26,12 @@
         <li>🤝 I'm open to <b>Full Stack Development</b> roles and remote collaborations.</li>
         <li>👨‍💻 Check out my projects here: <a href="https://linktr.ee/bdahsan1999wd">linktr.ee/bdahsan1999wd</a></li>
         <li>📝 I write technical blogs on <b>Full Stack Development and Modern Web Tech</b>.</li>
-        <li>⚡ <b>Fun Fact:</b> I think I'm quite self-willed and persistent when it comes to my ongoing projects.</li>
+        <li>⚡ <b>Fun Fact:</b> I think I'm quite self-willed and persistent with my ongoing projects.</li>
         <li>📫 Reach me at: <b>bdahsan1999wd@gmail.com</b></li>
       </ul>
     </td>
-    <td width="42%" valign="top">
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="width: 100%; border-radius: 10px;" alt="coding animation" />
+    <td width="42%" valign="middle" align="center">
+      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="100%" style="max-width: 400px; border-radius: 20px;" alt="coding-animation" />
     </td>
   </tr>
 </table>
