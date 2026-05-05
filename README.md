@@ -42,23 +42,39 @@
 
 **Languages & Core Frontend:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,daisyui" alt="frontend" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="frontend" />
+    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+      <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+        <a href="https://daisyui.com/"><img src="https://skillicons.dev/icons?i=daisyui" /></a>
+  
 </p>
 
 **Advanced MERN Stack & Frameworks:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb" alt="mern" />
+    <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+     <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+    <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
+    <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+    <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
 </p>
 
 **Future-Ready Goals (SQL & Advanced Backend):**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker" alt="future-stack" />
+    <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+    <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" /></a>
+    <a href="https://www.redis.io/"><img src="https://skillicons.dev/icons?i=redis" /></a>
+    <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
 </p>
 
 **Animation & Creative UI:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=threejs,gsap,framer-motion" alt="UI" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer-motion" width="48" height="48" style="vertical-align: middle; margin: 5px;" />
+    <a href="https://www.threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" /></a>
+    <a href="https://www.mui.com/"><img src="https://skillicons.dev/icons?i=mui" /></a>
+    <a href="https://www.gsap.com/"><img src="https://skillicons.dev/icons?i=gsap" /></a>
+    <a href="https://www.motion.dev/"><img src="https://skillicons.dev/icons?i=motion" /></a>
 </p>
 
 **AI & LLM Integration:**
@@ -71,22 +87,29 @@
 
 **🚀 Deployment Skills:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="deployment" />
+    <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+  <a href="https://www.firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 </p>
 
 **🔄 Workflow Awareness:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" alt="workflow" />
+    <a href="https://github.com/cli/cli"><img src="https://skillicons.dev/icons?i=github" /></a>
+    <a href="https://git-scm.com/cli/cli"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 **🎨 Creative Design & Prototyping:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pixso" alt="design" />
+    <a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" />
+    <a href="https://pixso.net/"><img src="https://skillicons.dev/icons?i=pixso" /></a>
 </p>
 
 **Currently Exploring / Future Interests:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,astro" alt="future" />
+    <a href="https://python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+    <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" /></a>
 </p>
 
 ---
